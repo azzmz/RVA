@@ -18,12 +18,18 @@
     <ClInclude Include="miprimeraclase.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="RamaAndoni.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
     <ClInclude Include="FirstClass.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="miprimeraclase.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="RamaAndoni.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
     <ClCompile Include="FirstClass.cpp">
