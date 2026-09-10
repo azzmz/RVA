@@ -18,6 +18,9 @@
     <ClInclude Include="miprimeraclase.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="ClaseGotzon.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
     <ClInclude Include="David.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
@@ -26,6 +29,7 @@
     <ClCompile Include="miprimeraclase.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="ClaseGotzon.cpp">
     <ClCompile Include="David.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
