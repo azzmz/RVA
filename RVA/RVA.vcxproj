@@ -123,10 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="EkainArchivo.h" />
     <ClInclude Include="miprimeraclase.h" />
+    <ClInclude Include="RVA.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="EkainArchivo.cpp" />
     <ClCompile Include="miprimeraclase.cpp" />
+    <ClCompile Include="RVA.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
