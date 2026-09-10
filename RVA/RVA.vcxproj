@@ -123,16 +123,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="IzanAbasolo.h" />
-    <ClInclude Include="FirstClass.h" />
+    <ClInclude Include="ClaseGotzon.h" />
     <ClInclude Include="miprimeraclase.h" />
     <ClInclude Include="RamaAndoni.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IzanAbasolo.cpp" />
-    <ClCompile Include="FirstClass.cpp" />
+    <ClCompile Include="ClaseGotzon.cpp" />
     <ClCompile Include="miprimeraclase.cpp" />
     <ClCompile Include="RamaAndoni.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="RVA.txt" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="RVA.txt" />
