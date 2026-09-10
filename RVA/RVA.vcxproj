@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClInclude Include="David.h" />
     <ClInclude Include="miprimeraclase.h" />
+    <ClInclude Include="RamaAndoni.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="David.cpp" />
