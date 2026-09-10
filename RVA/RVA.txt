@@ -1,1 +1,1 @@
-breve texto para ver conflictos con mismo nombre
+test conflicto 2
