@@ -123,9 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="FirstClass.h" />
     <ClInclude Include="miprimeraclase.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FirstClass.cpp" />
     <ClCompile Include="miprimeraclase.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
